@@ -2,7 +2,11 @@
 
 Add China geography map to ONOS Web GUI as a background for network topology.
 
-**Statement: Attention! This map is not accurate, and is only used as a rough example or demonstration.**
+.
+
+## Statement
+
+**Attention! This map is not accurate, and is only used as a rough example or demonstration.**
 
 **For the standard and accurate China map, you must refer to web site of Chinese government, such as [http://www.gov.cn/](https://www.gov.cn/)**
 
