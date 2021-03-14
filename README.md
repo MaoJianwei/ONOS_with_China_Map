@@ -1,4 +1,4 @@
-# ONOS_with_China_Map
+# ONOS with China Map
 
 Add China geography map to ONOS Web GUI as a background for network topology.
 
