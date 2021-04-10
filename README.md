@@ -14,6 +14,7 @@ Add China geography map to ONOS Web GUI as a background for network topology.
 
 ![https://raw.githubusercontent.com/MaoJianwei/ONOS_with_China_Map/master/Screenshot.png](https://raw.githubusercontent.com/MaoJianwei/ONOS_with_China_Map/master/Screenshot.png)
 
+![https://raw.githubusercontent.com/MaoJianwei/ONOS_with_China_Map/master/Screenshot.png](https://raw.githubusercontent.com/MaoJianwei/ONOS_with_China_Map/master/demo-screenshoot-multiple-links.png)
 .
 
 ## ONOS Gerrit
